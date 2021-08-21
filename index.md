@@ -6,13 +6,13 @@ title: Melody Leong CV
 Penultimate Year Student at Singapore University of Technology and Design
 
 <div id="webaddress">
-<a href="https://flamboyant-joliot-728271.netlify.app/">My webpage</a>
+<a href="https://flamboyant-joliot-728271.netlify.app/">Personal Website</a>
 </div>
 
 
-## Currently
+## Education
 
-Standing on the shoulders of giants
+Open Sourcing and developing things for the community
 
 ### Specialized in
 
@@ -26,8 +26,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`May 2019 - August 2022`
+__Singapore University of Technology and Design__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
