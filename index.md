@@ -37,7 +37,7 @@ Marketing Technology Intern
 - Developed and designed the user interface for the ALEF education portal that aims to teach elementary to high school students in China english vocabulary words for online learning. 
 
 **ROAR LAB @ SUTD**
-
+- DONE
 
 
 ## Achievements
