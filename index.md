@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Melody Leong CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Melody Leong
+Penultimate Year Student at Singapore University of Technology and Design
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://flamboyant-joliot-728271.netlify.app/">My webpage</a>
 </div>
 
 
