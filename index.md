@@ -29,7 +29,7 @@ Empowering communities through the world of coding.
 ## Experiences
 
 **Mowin Digital**
-`May 2020 - September 2020`<br/>
+`May 2020 - September 2020`<br>
 Marketing Technology Intern
 
 - Assisted in designing the front end user-interface for a tik tok like interactive online learning app, ALEF.
@@ -37,8 +37,8 @@ Marketing Technology Intern
 - Developed and designed the user interface for the ALEF education portal that aims to teach elementary to high school students in China english vocabulary words for online learning. 
 
 **ROAR LAB @ SUTD**
-`January 2020` <br/>
-Undergraduate Researcher<br/>
+`January 2020` <br>
+Undergraduate Researcher
 
 
 ## Achievements
