@@ -43,7 +43,7 @@ Marketing Technology Intern
 ## Achievements
 
 **Internet of Things Whiteboard tracker**
-` April 2020`<br/>
+`April 2020`<br/>
 Attained second place in the level for attempting to create an aritificial intelligence system noted for whiteboard tracking utilising open sourced libraries like opencv on the raspberry Pi IOT.
 
 **Matching Algorithm**
@@ -60,13 +60,13 @@ Attained second place for the hackathon.
 `February 2021` <br/>
 DigiHealth MIT Hackathon Challenge <br/>
 Attained first place for the MIT Digihealth hackathon challenge. <br/>
-Designed an I phone native application as a B2B product application to cater food deliveries to people with food allergies. 
+Designed an I phone native application as a B2B product application to cater food deliveries to people with food allergies in the United States.
 Helped to kickstart Safemeals as a startup from this.
 
 
 ## Weekend Projects 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
 
 ### Journals
 
