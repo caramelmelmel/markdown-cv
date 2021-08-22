@@ -37,8 +37,18 @@ Marketing Technology Intern
 - Developed and designed the user interface for the ALEF education portal that aims to teach elementary to high school students in China english vocabulary words for online learning. 
 
 **ROAR LAB @ SUTD**
-`January 2020` <br>
-Undergraduate Researcher
+`January 2020 - present` <br>
+Part-time Undergraduate Researcher and Software Developer
+
+- Assisted in Developing an optimised path finding algorithm using Dijikstra algorithm for cleaning robots to find shorter cleaning paths in both indoor and outdoor envrionments under [different lightings](https://www.sciencedirect.com/science/article/abs/pii/S0926580519305813).
+- Designed a user interface base for cleaning robots.
+
+**GAMI @ Harvard**
+`May 2021 - Present`<br>
+Student Researcher
+
+- Optimised the improvement of identifiying dry eyes through ocular surface imaging using Otsu binarisation. We are also continuing to look at deep learning approaches identified for handwriting tracing.
+
 
 
 ## Achievements
@@ -55,7 +65,7 @@ Attained an A- in Algorithms and Data Structures.
 **Hackathon wins**
 `June 2020`<br/>
 MIT Lebanon Challenge. <br/>
-Came up and designed and developed the web user interface for foreign investors and sellers to sell their goods to foreign investors. 
+Designed and developed the web user interface for foreign investors and sellers to sell their goods to foreign investors. 
 Attained second place for the hackathon.
 
 `February 2021` <br/>
@@ -67,34 +77,11 @@ Helped to kickstart Safemeals as a startup from this.
 
 ## Projects 
 
+**Weekend Project**
 
+- Built a [social media website](https://elegant-yalow-84a34d.netlify.app/) for fun using **MongoDB Atlas, Express, React, Nodejs and Graphql**. This is hosted on Netlify andmthe backend on Heroku.
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+**Introduction to Biology Research Project**
 
 
 
