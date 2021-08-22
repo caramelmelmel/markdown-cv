@@ -20,7 +20,7 @@ Empowering communities through the world of coding.
 ## Education
 
 **Singapore University of Technology and Design**
-`May 2019 - August 2022`
+`May 2019 - August 2022`<br/>
 - Bachelor of Engineering with Honours
 - Computer Science and Design, Artificial Intelligence minor
 
@@ -29,7 +29,7 @@ Empowering communities through the world of coding.
 ## Experiences
 
 **Mowin Digital**
-`May 2020 - September 2020`
+`May 2020 - September 2020`<br/>
 Marketing Technology Intern
 
 - Assisted in designing the front end user-interface for a tik tok like interactive online learning app, ALEF.
@@ -37,7 +37,8 @@ Marketing Technology Intern
 - Developed and designed the user interface for the ALEF education portal that aims to teach elementary to high school students in China english vocabulary words for online learning. 
 
 **ROAR LAB @ SUTD**
-- DONE
+`January 2020` <br/>
+Undergraduate Researcher<br/>
 
 
 ## Achievements
@@ -60,11 +61,11 @@ Attained second place for the hackathon.
 `February 2021` <br/>
 DigiHealth MIT Hackathon Challenge <br/>
 Attained first place for the MIT Digihealth hackathon challenge. <br/>
-Designed an I phone native application as a B2B product application to cater food deliveries to people with food allergies in the United States.
+Designed an I phone native application as a B2B product application to cater food deliveries to people with food allergies in the United States within 24 hours.
 Helped to kickstart Safemeals as a startup from this.
 
 
-## Weekend Projects 
+## Projects 
 
 
 
